@@ -7,13 +7,13 @@ The maps are presented at an angle to better illustrate heights, and the texts a
 ## Projects
 
 ### **[Egypt](./Egypt)**
-![Egypt](./Egypt/Egypt Population Density w Rayshader 72dpi-01.png)
-
+  ![Egypt Population Density](https://github.com/sherifscript/RayshaderMaps/blob/master/Egypt/Egypt%20Population%20Density%20w%20Rayshader%2072dpi-01.png)
+  
 ### **[Germany](./Germany)**
-![Germany](./Germany/Germany Population Density w Rayshader 72dpi-01.png)
+  ![Germany Population Density](https://github.com/sherifscript/RayshaderMaps/blob/master/Germany/German%20Population%20Density%20w%20Rayshader%2072dpi-01.png)
 
 
-### Portraits were created on 19.06.2023 using data from [Kontur's 2022 Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset).
+###### Portraits were created on 19.06.2023 using data from [Kontur's 2022 Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-dataset).
 
 I appreciate any feedback as I continue to learn and explore data visualization, especially regarding aesthetics. 
 
